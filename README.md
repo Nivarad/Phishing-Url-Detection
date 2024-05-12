@@ -11,7 +11,7 @@ Me, Niv Arad , and my partner, Omri Chen Yosef, were assigned to use ML in order
 
 First, we found an academic article which it's subject is to classify urls as phishing and benign by using nuerons network . we took some of the features that were talked about the project and decided to use those features combining classic machine learning algorithms to check those results , and from there to continue to explore our options to make the results even better.
 
-Unfortunatly the results were perfect score , so after talking to our mentor Amit Shtekel he adviced us to drop some of the features by looking for the cheapest features and by this we can make the ML algorithm much more realiable and fast in the industry standards and needs, and that's what we did 
+Unfortunatly the results were perfect score , so after talking to our mentor Amit Shtekel he adviced us to drop some of the features by looking for the cheapest features and by this we can make the ML algorithm much more realiable and fast in the industry standards and needs, and that's what we did resulting yet another almost perfect-score , but now can be done much more faster and reliably .
 
 
 ## Installation
@@ -33,7 +33,7 @@ https://www.kaggle.com/code/nivarad/phishing-domain-detection-project
 
 We had a fantastic time exploring the world of ML , and utilising it's power to solve a real world problem . We learned a lot by going into this world as a riddle needs to be solved and it's final result is not known.
 
-During the project we have been consulting with our mentor Amit shtekel many times on how to accomplish this project as best as we can - as the project took a few unexpected turns during our work - and thefore we owe him many thankses! 
+During the project we have been consulting with our mentor Amit shtekel many times on how to accomplish this project as best as we can - as the project took a few unexpected turns during our work - and thefore we owe him many thanks! 
 
 
 ## Authors
